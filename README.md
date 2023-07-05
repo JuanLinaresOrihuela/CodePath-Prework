@@ -25,7 +25,7 @@ The following **added** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/i4UmYVy.gif)
+![](https://imgur.com/a/RuAojoK.gif)
 
 GIF created with imgur
 
