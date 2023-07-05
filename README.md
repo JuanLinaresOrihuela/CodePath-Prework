@@ -25,9 +25,7 @@ The following **added** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/RuAojoK.gif)
-
-GIF created with imgur
+![ColorTime](https://github.com/JuanLinaresOrihuela/CodePath-Prework/assets/122564427/43af9807-c0f4-4040-9bfd-b6989748a0d2.gif)
 
 ## App Brainstorming (Step 4)
 
