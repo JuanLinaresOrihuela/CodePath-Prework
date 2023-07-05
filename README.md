@@ -25,8 +25,7 @@ The following **added** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/MelGNkp' title='ColorTime' width='' alt='Video Walkthrough' />
-
+![](https://imgur.com/a/MelGNkp.gif)
 
 ## App Brainstorming (Step 4)
 
