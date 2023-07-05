@@ -2,7 +2,7 @@ Color Time!
 
 Submitted by: Juan Linares Orihuela
 
-Color Time is an app that changes the background color randomly when the user taps the button color time. This Apps could be use as a fidgeting app, that way the user can find some entertainment and awesome colors while tapping the screen.
+Color Time is an app that changes the background color randomly when the user taps the button color time. This app could be used as a fidgeting app, that way the user can find some entertainment and awesome colors while tapping the screen.
 
 Time spent: 3 hours spent in total
 
@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 The following **added** functionality is completed:
 
-- [x] Users can see the improve UI with different fonts/colors/backgrounds
-- [x] Users can see a highligh color of text
+- [x] Users can see the improved UI with different fonts/colors/backgrounds
+- [x] Users can see a highlighted color of the text
 
  
 ## Video Walkthrough
@@ -51,7 +51,7 @@ Personal Idea - Cycling Time App:
 
 Describe any challenges encountered while building the app.
 
-· Learning all the required the tools to build an Xcode app.
+· Learning all the required tools to build an Xcode app.
 · Learning Github and Git while working on the project.
 · Make an interesting README page where people can understand the project.
 
