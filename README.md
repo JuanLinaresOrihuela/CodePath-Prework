@@ -25,7 +25,9 @@ The following **added** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/MelGNkp.gif)
+<img src='https://imgur.com/a/i4UmYVy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with imgur
 
 ## App Brainstorming (Step 4)
 
